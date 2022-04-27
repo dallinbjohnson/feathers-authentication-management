@@ -1,5 +1,5 @@
 {
-  "name": "feathers-authentication-management",
+  "name": "@dallin.b.johnson/feathers-authentication-management",
   "description": "Adds sign up verification, forgotten password reset, and other capabilities to local feathers-authentication ",
   "version": "3.2.0",
   "repository": {
